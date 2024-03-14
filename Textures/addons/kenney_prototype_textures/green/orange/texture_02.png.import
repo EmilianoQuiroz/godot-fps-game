@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dm4x7wcfw5g5e"
-path="res://.godot/imported/texture_13.png-610c7a5b3a3b2456ba4ab26fce28747e.ctex"
+uid="uid://nc2cfkl0thvc"
+path="res://.godot/imported/texture_02.png-3b11b45d38d6bdbd184cde65b847a9f3.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Textures/addons/kenney_prototype_textures/orange/texture_13.png"
-dest_files=["res://.godot/imported/texture_13.png-610c7a5b3a3b2456ba4ab26fce28747e.ctex"]
+source_file="res://Textures/addons/kenney_prototype_textures/green/orange/texture_02.png"
+dest_files=["res://.godot/imported/texture_02.png-3b11b45d38d6bdbd184cde65b847a9f3.ctex"]
 
 [params]
 
